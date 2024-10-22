@@ -1,5 +1,5 @@
 # Data Analysis Portfolio
-Hi there! This is a quick look of my project in the data analysis field, showing off my skills and know-how in this field.
+Hi there! This is a quick look of my projects in the data analysis field, showing off my skills and know-how in this field.
 
 **Table of Contens :**
 - [Data Wrangling](https://github.com/RazaHub92/Data-analysis/blob/Python_Codes/DataWrangling.ipynb)
