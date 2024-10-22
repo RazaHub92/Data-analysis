@@ -1,21 +1,15 @@
-Each Jupyter source file contains tasks and their solution codes in it
+# A.R's Project Portfolio
+Hi there! This is a quick look of my project in the data analysis field, showing off my skills and know-how in this field.
 
-This project explores the art of data visualization using a relational database management system (RDBMS). The primary objectives are to:
+**Table of Contens :**
+- [Data Wrangling](https://github.com/RazaHub92/Data-analysis/blob/Python_Codes/DataWrangling.ipynb)
+- [Exploratory Data Analysis](https://github.com/RazaHub92/Data-analysis/blob/Python_Codes/ExploratoryDataAnalysis.ipynb)
+- [Data Visualization from Relational Data Base](https://github.com/RazaHub92/Data-analysis/blob/Python_Codes/DataVisualization%20from%20RDB.ipynb)
 
-## Visualize Distributions: 
-Understand the spread of data within a single variable (e.g., histograms, box plots).
-## Visualize Relationships: 
-Explore connections between two variables (e.g., scatter plots, bubble plots).
-## Visualize Composition: 
-Analyze the makeup of categorical data (e.g., pie charts, stacked charts).
-## Visualize Comparison: 
-Compare data across different categories or timeframes (e.g., line charts, bar charts).
 
-### Prerequisites
-## Download the SQLite database file: 
-wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m4_survey_data.sqlite   
-Setting Up
 
-## Install the required Python libraries:
-pip install pandas matplotlib seaborn
-Replace 'DB Path' with the actual path to your downloaded database file in the code examples.
+You can find detailed step by step guidance and codes in relevent file.
+
+**Feed back:**
+
+If you have any feedback, please reach out to me at turbomech2012@gmail.com
