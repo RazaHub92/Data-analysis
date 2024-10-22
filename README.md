@@ -1,4 +1,4 @@
-# A.R's Project Portfolio
+# Data Analysis Portfolio
 Hi there! This is a quick look of my project in the data analysis field, showing off my skills and know-how in this field.
 
 **Table of Contens :**
